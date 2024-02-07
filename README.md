@@ -3,14 +3,14 @@
 
 Mapping of the Microsoft [Spreadsheet](https://www.microsoft.com/en-us/download/details.aspx?id=50034) that contains detailed information about event IDs in the Security.evtx.
 
-[EventIDs](./1-EventIDs/)
-[Category](./2-Category)
-[SubCategory](./3-SubCategory)
-[Minimum Operating System](4-MinimumOS)
+#### EventIDs
+#### Category
+#### SubCategory
+#### Minimum Operating System
 
 Additionially there are mappings to relevant verbs identified in the description fields as well as key words fields in the message section:
 
-[Verbs](5-Verbs)
+#### Verbs
 
 
 This site was written with [Obsidian](https://obsidian.md/) which includes some very useful graph visualization and search capabilities!
